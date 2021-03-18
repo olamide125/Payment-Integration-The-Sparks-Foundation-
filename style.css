@@ -23,7 +23,7 @@ color:white
 }
 
 h1 {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -37,7 +37,7 @@ h1 {
 }
 
 body {
-  font-family: Montserrat;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 /* navigation-bar */
